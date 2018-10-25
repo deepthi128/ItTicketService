@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.ticketinfo.data.Ticket;
 import com.ticketinfo.repo.TicketRepository;
 
+ 
 @SpringBootApplication
 public class TicketMgmtApplication implements CommandLineRunner {
 
